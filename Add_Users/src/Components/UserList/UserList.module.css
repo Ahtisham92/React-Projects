@@ -1,0 +1,33 @@
+.user-box {
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+}
+/* 
+.control {
+  padding: 1rem 2rem;
+} */
+
+.user-box ul {
+  /* display: block;
+  color: #fff;
+  font-size: 0.8rem;
+  text-align: left;
+  font-weight: bold; */
+  /* list-style: none;  */
+  padding: 1rem;
+}
+
+
+.user-box ul li {
+  margin: 1rem 0;
+  padding: 0.1rem 0.5rem;
+  display: block;
+  color: rgb(102, 93, 93);
+  text-align: left;
+  width: 100%;
+  list-style: none;
+  border: 1px solid #beaeae;
+  border-radius: 3px;
+}
+

@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(58, 57, 56);
+}
+
+.main {
+  margin: 50px auto;
+  width: 50%;
+  text-align: center;
+}

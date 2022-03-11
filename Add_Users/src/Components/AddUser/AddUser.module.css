@@ -1,0 +1,42 @@
+.main-form {
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.form-control {
+  padding: 1rem 2rem;
+}
+
+.form-control label {
+  display: block;
+  color: #000;
+  font-size: 0.8rem;
+  text-align: left;
+  font-weight: bold;
+}
+
+
+.form-control input {
+  display: block;
+  text-align: left;
+  width: 100%;
+}
+
+.form-control button {
+  padding: 0.4rem 0.9rem;
+  display: flex;
+  color: #fff;
+  background: rgb(85, 10, 85);
+  margin-bottom: 1rem;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.form-control button:hover,
+.form-control button:active
+{
+  background: rgb(121, 29, 121);
+}
